@@ -1,0 +1,70 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: November 3, 2024 5:09 pm
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.5.11.1
+WORDPRESS:	6.6.2
+PHP INFO:	8.2.12 | SAPI: apache2handler
+SERVER:		Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 4294967296 (512M default) 
+MEMORY STACK: 58MB
+[CTRL DUP ARCIVE] PACKAGE AS NEW ID 5 SAVED | STATUS:0
+[DUP ARCHIVE] BUILDING DATABASE
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   MYSQLDUMP
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Is Supported
+SQL CREATED: 20241101_d9bed8b1d988da98d987d8aad8b3d8_cbcb1b7d8afeb4912298_20241103170908_database.sql
+SQL FILE SIZE: 7.86MB (8242719)
+SQL FILE TIME: 2024-11-03 17:09:34
+SQL RUNTIME: 16.50 sec.
+[DUP ARCHIVE] VALIDATING DATABASE
+[DUP ARCHIVE] DONE DATABASE
+
+********************************************************************************
+ARCHIVE Type=DUP Mode=DupArchive
+********************************************************************************
+ARCHIVE DIR:  C:/xampp/htdocs/project
+ARCHIVE FILE: 20241101_d9bed8b1d988da98d987d8aad8b3d8_cbcb1b7d8afeb4912298_20241103170908_archive.daf
+FILTERS: *OFF*
+DIRS:
+	not set
+FILES:
+	not set
+EXTS:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	182.22MB
+STATS:	Dirs 1,372 | Files 7,256 | Total 8,628
+[DUP ARCHIVE] DONE ARCHIVE
+[DUP ARCHIVE] DONE ARCHIVE
+building installer
+[DUP ARCHIVE] DONE ARCHIVE
+COMPRESSED SIZE: 81.75MB
+ARCHIVE RUNTIME: 33.82 sec.
+MEMORY STACK: 64MB
+CREATE WARNINGS: No warnings.
+VALIDATION WARNINGS: No warnings.
+[DUP ARCHIVE] DONE ARCHIVE
+[DUP ARCHIVE] HAS COMPLETED CLOSING
+[DUP ARCHIVE] DUP ARCHIVE INTEGRITY CHECK
+
+********************************************************************************
+INTEGRITY CHECKS:
+********************************************************************************
+SQL FILE: 7.86MB
+INSTALLER FILE: 94.83KB
+ARCHIVE FILE: 81.75MB 
+فایل / فایل مورد انتظار COUNT: 9,367
+فایل ACTIVAL / فهرستها COUNT: 9,368
+
+********************************************************************************
+RECORD ID:[5]
+TOTAL PROCESS RUNTIME: 33.85 sec.
+PEAK PHP MEMORY USED: 64MB
+DONE PROCESSING => 20241101_d9bed8b1d988da98d987d8aad8b3d8 2024-11-03 17:09:52
+
